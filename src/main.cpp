@@ -1,4 +1,6 @@
-#include <gtkmm.h>
+#include <gtkmm/application.h>
+#include <gtkmm/window.h>
+#include <gtkmm/messagedialog.h>
 #include <string>
 
 int main(int argc, char *argv[])
